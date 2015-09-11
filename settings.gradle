@@ -1,0 +1,2 @@
+include ':thinkfaster', ':andengine'
+project(':andengine').projectDir = new File('thirdparty/andengine')
